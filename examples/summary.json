@@ -1,0 +1,68 @@
+{
+  "dataset_sha256": "8eb6989b801c9026c875f83003ba6f2576e0ea69b3c3f296ddf1097df09a0c1d",
+  "scope": "L3",
+  "overall": {
+    "correct": 436,
+    "total": 1825,
+    "accuracy_percent": 23.89041095890411
+  },
+  "by_level": {
+    "L3": {
+      "correct": 436,
+      "total": 1825,
+      "accuracy_percent": 23.89041095890411
+    }
+  },
+  "by_task": {
+    "cross_source_compare": {
+      "correct": 10,
+      "total": 20,
+      "accuracy_percent": 50.0
+    },
+    "distance_change": {
+      "correct": 14,
+      "total": 20,
+      "accuracy_percent": 70.0
+    },
+    "elevation_rank_then_bearing": {
+      "correct": 21,
+      "total": 324,
+      "accuracy_percent": 6.481481481481482
+    },
+    "free": {
+      "correct": 0,
+      "total": 18,
+      "accuracy_percent": 0.0
+    },
+    "height_rank_then_azimuth": {
+      "correct": 144,
+      "total": 432,
+      "accuracy_percent": 33.333333333333336
+    },
+    "height_rank_then_elevation": {
+      "correct": 180,
+      "total": 324,
+      "accuracy_percent": 55.55555555555556
+    },
+    "identity_location_binding": {
+      "correct": 11,
+      "total": 20,
+      "accuracy_percent": 55.0
+    },
+    "multi_hop_reasoning": {
+      "correct": 0,
+      "total": 19,
+      "accuracy_percent": 0.0
+    },
+    "onset_then_yaw": {
+      "correct": 26,
+      "total": 324,
+      "accuracy_percent": 8.024691358024691
+    },
+    "spatial_rank_then_yaw": {
+      "correct": 30,
+      "total": 324,
+      "accuracy_percent": 9.25925925925926
+    }
+  }
+}

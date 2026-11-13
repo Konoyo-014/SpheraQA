@@ -1,0 +1,337 @@
+{
+  "archive_format": "independent tar.gz parts",
+  "parts": [
+    {
+      "file": "audio/parts/audio.part000.tar.gz",
+      "sha256": "85b9af83bde2be9309749d06cb57bddb2637047e5f29e78ba7d8dc7990b408af",
+      "bytes": 431480838,
+      "audio_files": 166,
+      "audio_bytes": 528236128
+    },
+    {
+      "file": "audio/parts/audio.part001.tar.gz",
+      "sha256": "55a5cd28e0c030033eb389eb6614c0efb0d0746761c5ebe6e2d6da692647f5b1",
+      "bytes": 427060417,
+      "audio_files": 133,
+      "audio_bytes": 508744856
+    },
+    {
+      "file": "audio/parts/audio.part002.tar.gz",
+      "sha256": "f33e019632fdea54b175c8833f35605810fcbd300c51f8b4e5af8237068cf6b8",
+      "bytes": 439029559,
+      "audio_files": 162,
+      "audio_bytes": 536169824
+    },
+    {
+      "file": "audio/parts/audio.part003.tar.gz",
+      "sha256": "1d01fe09760d36b4ca04df3b394288e79c2edff33168efe9211fd013c1dd252b",
+      "bytes": 435376298,
+      "audio_files": 168,
+      "audio_bytes": 528411648
+    },
+    {
+      "file": "audio/parts/audio.part004.tar.gz",
+      "sha256": "bd75dbe280962806c092d0b0d4e3380278a22a3f7432d39bdbcd45656a11258d",
+      "bytes": 369347946,
+      "audio_files": 197,
+      "audio_bytes": 477703544
+    },
+    {
+      "file": "audio/parts/audio.part005.tar.gz",
+      "sha256": "3749da0f38c35afdc75bf30f9843519b59f75a4b686e87207b73d0d81e563b92",
+      "bytes": 435178560,
+      "audio_files": 164,
+      "audio_bytes": 531036144
+    },
+    {
+      "file": "audio/parts/audio.part006.tar.gz",
+      "sha256": "3841d92edd90b6769dc7a4d44c808a481d140028ddec3ee923c32fa5a2e88c01",
+      "bytes": 441886892,
+      "audio_files": 145,
+      "audio_bytes": 534048280
+    },
+    {
+      "file": "audio/parts/audio.part007.tar.gz",
+      "sha256": "b9f70fd24098fedb5667615a7cc184fea2cb6e56951f5062ee7c6352de15838b",
+      "bytes": 402081948,
+      "audio_files": 189,
+      "audio_bytes": 530442040
+    },
+    {
+      "file": "audio/parts/audio.part008.tar.gz",
+      "sha256": "c16a2270b068c840c228409967614010273707c5f50c2342892072037cf5d1e7",
+      "bytes": 428545756,
+      "audio_files": 198,
+      "audio_bytes": 533640880
+    },
+    {
+      "file": "audio/parts/audio.part009.tar.gz",
+      "sha256": "8c49192f9f0680d3be2b1eaacadff17fc36166b6901e8c3433bb5245c1f57bba",
+      "bytes": 444657404,
+      "audio_files": 149,
+      "audio_bytes": 531420328
+    },
+    {
+      "file": "audio/parts/audio.part010.tar.gz",
+      "sha256": "de3309f9a9ca06911025f27640f526f35599dec4717ff9c0e967c519c8d7791a",
+      "bytes": 424447290,
+      "audio_files": 173,
+      "audio_bytes": 535075976
+    },
+    {
+      "file": "audio/parts/audio.part011.tar.gz",
+      "sha256": "8f0370ae0afaa604ec174047e8a20016e552c02a34cf1af24c68a60f404f5568",
+      "bytes": 460580180,
+      "audio_files": 129,
+      "audio_bytes": 536421400
+    },
+    {
+      "file": "audio/parts/audio.part012.tar.gz",
+      "sha256": "2ba042a8ecf893825cf68d39d231b9a9087a6bf20828d7e7d5ef2b09de6d2b94",
+      "bytes": 428696290,
+      "audio_files": 174,
+      "audio_bytes": 533630592
+    },
+    {
+      "file": "audio/parts/audio.part013.tar.gz",
+      "sha256": "5bf1f0c5cf9312aed1ba4c55f46f88b0578db8d161dc5bf711d9973c056a64ab",
+      "bytes": 404607711,
+      "audio_files": 172,
+      "audio_bytes": 513688608
+    },
+    {
+      "file": "audio/parts/audio.part014.tar.gz",
+      "sha256": "613ec47f5e8702d0d4f5bdcf5d33582d9fb2143f045f1c5b9c255d7eec55b45a",
+      "bytes": 433447744,
+      "audio_files": 180,
+      "audio_bytes": 534332656
+    },
+    {
+      "file": "audio/parts/audio.part015.tar.gz",
+      "sha256": "a71b06b88d88ceaf094db84888de203b9f24c75aca70481c5977c24072e7d4f3",
+      "bytes": 428075710,
+      "audio_files": 153,
+      "audio_bytes": 528086088
+    },
+    {
+      "file": "audio/parts/audio.part016.tar.gz",
+      "sha256": "35e9df412a9bc9a4233f2db3556cf65e9e29179be62e45e15cf6ea743c9b2897",
+      "bytes": 451602032,
+      "audio_files": 131,
+      "audio_bytes": 535293496
+    },
+    {
+      "file": "audio/parts/audio.part017.tar.gz",
+      "sha256": "9b9b1d2bd186f73de081d7f7016b081c5c7717eeb98fde5ec64bef0a7e240d31",
+      "bytes": 430277039,
+      "audio_files": 166,
+      "audio_bytes": 533762096
+    },
+    {
+      "file": "audio/parts/audio.part018.tar.gz",
+      "sha256": "c7e78ed3ddb7958456433b794439162d6249b832bcec91bb4dab37abad52bcf3",
+      "bytes": 430723858,
+      "audio_files": 201,
+      "audio_bytes": 533675832
+    },
+    {
+      "file": "audio/parts/audio.part019.tar.gz",
+      "sha256": "58c7f9398273d10aec09e55aa67d154754e355ce818e623cd166262d5cc421b4",
+      "bytes": 434619503,
+      "audio_files": 181,
+      "audio_bytes": 532481960
+    },
+    {
+      "file": "audio/parts/audio.part020.tar.gz",
+      "sha256": "7884c09db0de4aa1354aa4deaef90c0f3827b41e2de98e49f4ae592c69ad0f06",
+      "bytes": 362412193,
+      "audio_files": 207,
+      "audio_bytes": 475317480
+    },
+    {
+      "file": "audio/parts/audio.part021.tar.gz",
+      "sha256": "a03202c56ffde7b6d7619718c6b8d6d788db5149811dbc36289549d17171e334",
+      "bytes": 442414077,
+      "audio_files": 155,
+      "audio_bytes": 532432936
+    },
+    {
+      "file": "audio/parts/audio.part022.tar.gz",
+      "sha256": "b449a119c03c3323170335732740a4bc7fc4f6b1684cbde8cb1090011f99a165",
+      "bytes": 428527037,
+      "audio_files": 185,
+      "audio_bytes": 533213144
+    },
+    {
+      "file": "audio/parts/audio.part023.tar.gz",
+      "sha256": "550cca74c73dc36f8633fbe4c7cbb3f667528fb9b7a673f70d70661654e5aecd",
+      "bytes": 414013320,
+      "audio_files": 187,
+      "audio_bytes": 534771272
+    },
+    {
+      "file": "audio/parts/audio.part024.tar.gz",
+      "sha256": "56fcc7a310831349bb84ddedaf653c5c2368e7c686ce6cdc2b59061392608bbc",
+      "bytes": 428805393,
+      "audio_files": 187,
+      "audio_bytes": 532390456
+    },
+    {
+      "file": "audio/parts/audio.part025.tar.gz",
+      "sha256": "fde01823725d589c13e89af07a375cd00c62b83820a22f147eaf4b757b67d9eb",
+      "bytes": 429400298,
+      "audio_files": 200,
+      "audio_bytes": 531952512
+    },
+    {
+      "file": "audio/parts/audio.part026.tar.gz",
+      "sha256": "6227c2dfaeeb44e60e500e495b12686579d357321406551efd983065b218391e",
+      "bytes": 430882751,
+      "audio_files": 166,
+      "audio_bytes": 535126432
+    },
+    {
+      "file": "audio/parts/audio.part027.tar.gz",
+      "sha256": "e480ce9996a5d4d0569457e5d953f1e34e85c9dada385cc9e2e634022bf0309c",
+      "bytes": 446503413,
+      "audio_files": 124,
+      "audio_bytes": 534922080
+    },
+    {
+      "file": "audio/parts/audio.part028.tar.gz",
+      "sha256": "f7ee94e22ce1ec34aa5f6e9093f88b2de7173c84005f1c410f6d7ed81b520674",
+      "bytes": 428540429,
+      "audio_files": 214,
+      "audio_bytes": 530156928
+    },
+    {
+      "file": "audio/parts/audio.part029.tar.gz",
+      "sha256": "ba9a9838424b9e4d1399707130491a3e6b3c1c598246768fde4267c538afcb57",
+      "bytes": 446203088,
+      "audio_files": 129,
+      "audio_bytes": 535137336
+    },
+    {
+      "file": "audio/parts/audio.part030.tar.gz",
+      "sha256": "3d555d9d9c09ae748c069f0e044a728048efd0db5de459bf9bf500df8d33ccbe",
+      "bytes": 423087805,
+      "audio_files": 217,
+      "audio_bytes": 535447880
+    },
+    {
+      "file": "audio/parts/audio.part031.tar.gz",
+      "sha256": "c3b66fb880b2ba95efa1717bcfea1fa91512cdfaeb2f1c90b78ba6019e2ee90b",
+      "bytes": 397707194,
+      "audio_files": 174,
+      "audio_bytes": 519538528
+    },
+    {
+      "file": "audio/parts/audio.part032.tar.gz",
+      "sha256": "cd78bd196e4018a8822c8c0f04c3a0c7bbd73c6fc112b8268a16fb9143e3bb2c",
+      "bytes": 435193345,
+      "audio_files": 146,
+      "audio_bytes": 528516832
+    },
+    {
+      "file": "audio/parts/audio.part033.tar.gz",
+      "sha256": "6660143e64de7e3281d24bb94ab01dc83c0b0ae7ff374c34c249812073757bb6",
+      "bytes": 439823917,
+      "audio_files": 181,
+      "audio_bytes": 532450008
+    },
+    {
+      "file": "audio/parts/audio.part034.tar.gz",
+      "sha256": "8ee62fcf45fa64ae98561d6498edd084b2474adb6cdf4ebea098e5b067985707",
+      "bytes": 422401137,
+      "audio_files": 164,
+      "audio_bytes": 530644016
+    },
+    {
+      "file": "audio/parts/audio.part035.tar.gz",
+      "sha256": "856db85aca66e7467e59313133f0084f10ba38891846feb671b353a7d8d3700a",
+      "bytes": 441205101,
+      "audio_files": 137,
+      "audio_bytes": 531309896
+    },
+    {
+      "file": "audio/parts/audio.part036.tar.gz",
+      "sha256": "75407d7096a8324742a408ca3c4aad3c817fef017d2ae6bd92b3a0178ae936bc",
+      "bytes": 427744015,
+      "audio_files": 164,
+      "audio_bytes": 530636992
+    },
+    {
+      "file": "audio/parts/audio.part037.tar.gz",
+      "sha256": "f90cf9d3f792f15d4f27801553f86447f4118d3412b6c485ab4fdf0173d21c43",
+      "bytes": 431743054,
+      "audio_files": 184,
+      "audio_bytes": 531432688
+    },
+    {
+      "file": "audio/parts/audio.part038.tar.gz",
+      "sha256": "a4971516669e9578c462a104341c4fdb927a59e6a8f50d951a9a3c19d53bc202",
+      "bytes": 414749598,
+      "audio_files": 167,
+      "audio_bytes": 506351688
+    },
+    {
+      "file": "audio/parts/audio.part039.tar.gz",
+      "sha256": "9b2b0ca8c79bd044ca300f09f02e55346a9e86c3b97bec80e8d9ee3f50450b04",
+      "bytes": 424874633,
+      "audio_files": 170,
+      "audio_bytes": 531836624
+    },
+    {
+      "file": "audio/parts/audio.part040.tar.gz",
+      "sha256": "0fe946a600ab4ea77328e488b85c2a13bf73d7fa1d10b14a92f10a2ef3d27f6d",
+      "bytes": 444169379,
+      "audio_files": 154,
+      "audio_bytes": 533011920
+    },
+    {
+      "file": "audio/parts/audio.part041.tar.gz",
+      "sha256": "f7992b3d727ef7f7a6189a5eacf3b98d48117c2b3163d4bae4568770a44f62f5",
+      "bytes": 445364247,
+      "audio_files": 125,
+      "audio_bytes": 523494440
+    },
+    {
+      "file": "audio/parts/audio.part042.tar.gz",
+      "sha256": "66b8637d787436ab0827ece2a7d8987e1d6484878b7be8f262ebda18959a92fb",
+      "bytes": 444538696,
+      "audio_files": 114,
+      "audio_bytes": 514818448
+    },
+    {
+      "file": "audio/parts/audio.part043.tar.gz",
+      "sha256": "d7501c9f9dfe03a6d24d2acbb7460bfc0cfbeaf78089f02ce1ba67a6ac528ec0",
+      "bytes": 443686699,
+      "audio_files": 136,
+      "audio_bytes": 533804592
+    },
+    {
+      "file": "audio/parts/audio.part044.tar.gz",
+      "sha256": "95ec9616e5e9fe9c3ca9f2fab2d0f370182a891bb8653490806145d8ca26b5e4",
+      "bytes": 406843912,
+      "audio_files": 127,
+      "audio_bytes": 487196088
+    },
+    {
+      "file": "audio/parts/audio.part045.tar.gz",
+      "sha256": "037d1503dd9cfb96a6149cb217ee5864548bb65892be98ebaafe2c96859c6410",
+      "bytes": 426711756,
+      "audio_files": 164,
+      "audio_bytes": 532989952
+    },
+    {
+      "file": "audio/parts/audio.part046.tar.gz",
+      "sha256": "0b31515ac720a14c6c7e9e280e7e1847a59a4ae47a9f486abc2e846b20475260",
+      "bytes": 238782082,
+      "audio_files": 77,
+      "audio_bytes": 284905400
+    }
+  ],
+  "audio_files": 7686,
+  "audio_bytes": 24520108944,
+  "download_bytes": 19948051544
+}

@@ -1,0 +1,65 @@
+{
+  "model": "SpheraAudio",
+  "checkpoint_stage": "joint-SFT",
+  "checkpoint_iteration": 1633,
+  "position_mode": "shared_time",
+  "model_files": [
+    {
+      "name": "config.json",
+      "bytes": 23412,
+      "sha256": "39a1f919c7c65aa8416e7bc39cc32ace21cec530084ce20513e985599d6bf527"
+    },
+    {
+      "name": "tokenizer.json",
+      "bytes": 18700612,
+      "sha256": "74b6c16b5e8b40017816ad82b268755ba4b13c75ea0c56bade9799dc46da421a"
+    },
+    {
+      "name": "model.safetensors",
+      "bytes": 11245602640,
+      "sha256": "2221bf7d1ea483c09ee0203ce6548c55c8517ebb129c6d3e1e1e3191d3f35ebf"
+    }
+  ],
+  "input": {
+    "format": "FOA",
+    "sample_rate_hz": 16000,
+    "channels": 4,
+    "channel_order": [
+      "W",
+      "Y",
+      "Z",
+      "X"
+    ],
+    "normalization": "SN3D",
+    "full_recording": true,
+    "native_decode": "PCM16"
+  },
+  "generation": {
+    "temperature": 0,
+    "do_sample": false,
+    "max_new_tokens": 16384,
+    "context_limit": 32768,
+    "dtype": "bfloat16",
+    "completed": 1825,
+    "capped": 0,
+    "errors": 0,
+    "empty": 0
+  },
+  "judge": {
+    "model": "gpt-4o-2024-11-20",
+    "completed_questions": 1825,
+    "successful_records_used": 1850,
+    "unresolved": 0,
+    "source_identity_input": "complete original final answer"
+  },
+  "results": {
+    "test": {
+      "correct": 436,
+      "total": 1825,
+      "accuracy_percent": 23.89041095890411
+    }
+  },
+  "dataset_sha256": "8eb6989b801c9026c875f83003ba6f2576e0ea69b3c3f296ddf1097df09a0c1d",
+  "scoring_sha256": "5213c8597c6718a1043cbe52879ad1a9f369b978d69662f53b072657e2f70e51",
+  "evaluation_date": "2026-09-29"
+}
