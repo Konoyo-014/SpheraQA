@@ -1,0 +1,12 @@
+audio/
+spheraqa.jsonl
+media.jsonl
+prompts.jsonl
+.env
+__pycache__/
+*.pyc
+*.calls/
+results/
+model_answers.jsonl
+scored.jsonl
+/summary.json
